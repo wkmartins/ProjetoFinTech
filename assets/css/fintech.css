@@ -1,0 +1,26 @@
+
+* {   
+    box-sizing: border-box;
+    font-family:'Tahoma';
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
+.form-control {
+    width: 100%;
+    border-width: 1px;
+    height: 40px;
+    border-radius: 4px;
+    padding-left: 10px;
+    font-size: 14px;
+    background-color: #0f43876c;
+}
+
+.form-label {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 2;
+    margin: 2px 2px;
+    color:#1a457d;
+}
